@@ -2,7 +2,7 @@
     <string name="app_name">SignUpForm</string>
     <string name="action_settings">Settings</string>
     <string name="ok">OK</string>
-    <string name="cancel">cancel</string>
+    <string name="cancel">Cancel</string>
     <string name="username">Username:</string>
     <string name="submit">SUBMIT</string>
     <string name="placeholder">Please enter your username</string>
